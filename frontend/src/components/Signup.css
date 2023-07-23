@@ -1,0 +1,59 @@
+.signUp{
+    background-image: url("https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?w=1380&t=st=1688248219~exp=1688248819~hmac=94764512a1b27181c8e46a122181c3f7c99f273c8893ceeacbfd77e022d6cd87"); 
+flex:1;
+display:flex;
+justify-content:center;
+align-items:center;
+}
+.form{
+    background-color:#fff;
+    padding:30px;
+    border:1px solid rgb
+    (132, 131, 131);
+    border-radius:1px;
+}
+.signUpLogo{
+    width:200px;
+    object-fit:contain;
+    padding:10px 0px;
+}
+.loginPara{
+    color: rgba(var(--f52,142,142,142),1);
+    font-size:17px;
+    font-weight:600;
+    line-weight:20px;
+    margin:0px 40px 20px
+    40px;
+}
+input{
+    padding:5px;
+    margin:3px 0px;
+    outline:none;
+    font-size:16px;
+    width:100%;
+    box-sizzing: border-box;
+}
+.form >div{
+    width:80%;
+    margin:auto;
+}
+#submit-btn{
+    background-color:#1773ea;
+    border:none;
+    border-radius:3px;
+    color:white;
+    font-weight:bold;
+    padding:5px 10px;
+    width:80%;
+    cursor:pointer;
+    margin-top:8px;
+}
+.form2{
+    background-color:#fff;
+    padding:30px;
+    margin-top:5px;
+    border:1px solid rgb
+    (132, 131, 131);
+    border-radius:1px;
+    
+}
